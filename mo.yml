@@ -1,0 +1,4 @@
+domain: example.isl.codes
+heroku:
+  staging: data-viz-staging
+  production: data-viz
